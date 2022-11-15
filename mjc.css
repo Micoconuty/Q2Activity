@@ -1,0 +1,30 @@
+/*this is an external css*/
+h1{
+	font-family: Bahnschrift SemiBold;
+	color: #F0EBE3;
+	letter-spacing: 2px; 
+	text-transform: uppercase;
+	text-shadow: 2px 2px #7D9D9C;
+
+}
+
+/*text-indent adds an indent every paragraph*/
+p{
+	text-indent: 25px;
+	color: #F0EBE3;
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+body{
+	background-color:#212F3C ;
+}
+img{
+	border-style: solid;
+	border-color: #7D9D9C;
+	float: right;
+}
+footer{
+	color:#F0EBE3 ;
+}
